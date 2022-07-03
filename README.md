@@ -58,16 +58,21 @@
  
  <h3>8.What is a Programing Language?<br><small><u>Ansr-</u></small></h3>
  <button class="px-3 py-2 lg:px-4 lg:py-3 bg-gray-900 text-gray-200 text-xs font-semibold rounded hover:bg-gray-800"><b><p>A programing language is a computer language that os used by progarammers (developers) to communicate with computers.It is a set of instructions written in any specific language(C,C++,Java, Python) to perform a specific task.A programming language mainly used to devalop desktop applications, website,and mobile applications.</b></p> </button>
- 
+
+</section>
+
+   </Span> 
+
+           
 <!-- Social media tag-->
   <a href="https://www.facebook.com/profile.php?id=100054229745076 " target="_main">Fecebook</a><br>
-      <a href="https://instagram.com/its_vivek_492?igshid=YmMyMTA2M2Y=" target="_main">Instagram </a>
+    <a href="https://instagram.com/its_vivek_492?igshid=YmMyMTA2M2Y=" target="_main">Instagram </a>
  
  
  
  
- </section>
-   </Span> 
+
+
            
  
 
