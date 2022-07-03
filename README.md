@@ -65,10 +65,9 @@
 
            
 <!-- Social media tag-->
-  <a href="https://www.facebook.com/profile.php?id=100054229745076 " target="_main">Fecebook</a><br>
-    <a href="https://instagram.com/its_vivek_492?igshid=YmMyMTA2M2Y=" target="_main">Instagram </a>
- 
- 
+<h3>Contact Use </h3>
+ <a href="https://www.facebook.com/profile.php?id=100054229745076">Fecebook</a>
+ <a href="https://instagram.com/its_vivek_492?igshid=YmMyMTA2M2Y=">Instagram</a>
  
  
 
