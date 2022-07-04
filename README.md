@@ -77,7 +77,11 @@
 
 
            
- 
+ <h2>How is the website</h2>
+
+       <form action="form.php">
+
+            <input type="text"placeholder="Enter Your Opinion"> 
 
 
 
