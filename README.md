@@ -31,7 +31,7 @@
 <h3>3.Chracterstics of computer:-</h3>
  
 <br><b>•</b> Speed
-<br><b>•</b> Accuracy
+<br><b>•</b> Accuracy 
 <br><b>•</b> Storage
 <br><b>•</b> Quick Decition 
 <br><b>•</b> Repeated Capability </br>
