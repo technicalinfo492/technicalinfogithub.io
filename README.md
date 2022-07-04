@@ -60,7 +60,7 @@
  <h3>8.What is Programing language?<br> <small><u>Ansr -</u></small></h3> 
  
 <p><b>A</b> programing language is a computer language that os used by progarammers (developers) to communicate with computers.It is a set of instructions written in any specific language(C,C++,Java, Python) to perform a specific task.A programming language mainly used to devalop desktop applications, website,and mobile applications.</p> 
- <br>
+ 
 
 
   
