@@ -8,9 +8,9 @@
   <body>
 
 
-</h2>      
-  <section>
-  <span>
+</h2>  Computer Basic knowledge </h2>    
+  
+
       <h3>1.What is computer?<br><><u>Ansr-</u></small></h3> 
  <p><b> Computer</b> is an electronic devices which is developed by <u>Charles babage</u> near by 19th century.<b>It</b> take inputs data from the input devices, stores and processed it and produces Output.</p>
  <button class="px-3 py-2 lg:px-4 lg:py-3 bg-gray-900 text-gray-200 text-xs font-semibold rounded hover:bg-gray-800"><b>INPUT</b></button><b>&rarr;</b><button class="px-3 py-2 lg:px-4 lg:py-3 bg-gray-900 text-gray-200 text-xs font-semibold rounded hover:bg-gray-800"><b>PROCESS</b></button><b>&rarr;</b><button class="px-3 py-2 lg:px-4 lg:py-3 bg-gray-900 text-gray-200 text-xs font-semibold rounded hover:bg-gray-800"><b>OUTPUT</b></button>
@@ -61,9 +61,9 @@
  <h3>8.What is a Programing Language?<br><small><u>Ansr-</u></small></h3>
  <button class="px-3 py-2 lg:px-4 lg:py-3 bg-gray-900 text-gray-200 text-xs font-semibold rounded hover:bg-gray-800"><b><p>A programing language is a computer language that os used by progarammers (developers) to communicate with computers.It is a set of instructions written in any specific language(C,C++,Java, Python) to perform a specific task.A programming language mainly used to devalop desktop applications, website,and mobile applications.</b> </p> </button></br>
 
-</section>
 
-   </Span> 
+
+  
 
            
 <!-- Social media tag-->
