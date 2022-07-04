@@ -1,11 +1,11 @@
 
 <html>
 
-
+<body>
 
 
        <!-- heading tag-->
-  <body>
+
 
 
 <h2>  Computer Basic knowledge </h2>    
