@@ -3,14 +3,15 @@
 <head>
 
 
- <body>
-        <!-- heading tag-->
- 
-      <h2>Computer Basic Nnowledge </h2> 
-      
+77ll
+qw        <!-- heading tag-->
+  <body>90ppppp oo ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp oooppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+
+7
+</h2>      
   <section>
-   <span>
-      <h3>1.What is computer?<br><small><u>Ansr-</u></small></h3> 
+cx.      <span>
+      <h3>1.What is computer?<br><><u>Ansr-</u></small></h3> 
  <p><b> Computer</b> is an electronic devices which is developed by <u>Charles babage</u> near by 19th century.<b>It</b> take inputs data from the input devices, stores and processed it and produces Output.</p>
  <button class="px-3 py-2 lg:px-4 lg:py-3 bg-gray-900 text-gray-200 text-xs font-semibold rounded hover:bg-gray-800"><b>INPUT</b></button><b>&rarr;</b><button class="px-3 py-2 lg:px-4 lg:py-3 bg-gray-900 text-gray-200 text-xs font-semibold rounded hover:bg-gray-800"><b>PROCESS</b></button><b>&rarr;</b><button class="px-3 py-2 lg:px-4 lg:py-3 bg-gray-900 text-gray-200 text-xs font-semibold rounded hover:bg-gray-800"><b>OUTPUT</b></button>
 
