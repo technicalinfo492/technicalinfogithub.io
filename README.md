@@ -8,7 +8,7 @@
   <body>
 
 
-</h2>  Computer Basic knowledge </h2>    
+<h2>  Computer Basic knowledge </h2>    
   
 
       <h3>1.What is computer?<br><><u>Ansr-</u></small></h3> 
