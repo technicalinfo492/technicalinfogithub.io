@@ -58,9 +58,9 @@
   <h3>7.What is Cyber Security?<br> <small><u>Ansr -</u></small></h3> 
  <button class="px-3 py-2 lg:px-4 lg:py-3 bg-gray-900 text-gray-200 text-xs font-semibold rounded hover:bg-gray-800"><b><p>Cyber security consists of technolgies processes and controls designed to protect systems, networks, programs, devices and data from cyber attacks.</p></b></button>
  
- <h3>8.What is a Programing Language?<br><small><u>Ansr-</u></small></h3>
- <button class="px-3 py-2 lg:px-4 lg:py-3 bg-gray-900 text-gray-200 text-xs font-semibold rounded hover:bg-gray-800"><b><p>A programing language is a computer language that os used by progarammers (developers) to communicate with computers.It is a set of instructions written in any specific language(C,C++,Java, Python) to perform a specific task.A programming language mainly used to devalop desktop applications, website,and mobile applications.</b> </p> </button></br>
-
+ <h3>8.What is Programing language?<br> <small><u>Ansr -</u></small></h3> 
+ <button class="px-3 py-2 lg:px-4 lg:py-3 bg-gray-900 text-gray-200 text-xs font-semibold rounded hover:bg-gray-800"><b><p>A programing language is a computer language that os used by progarammers (developers) to communicate with computers.It is a set of instructions written in any specific language(C,C++,Java, Python) to perform a specific task.A programming language mainly used to devalop desktop applications, website,and mobile applications.</p></b></button>
+ 
 
 
   
