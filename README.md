@@ -70,26 +70,6 @@
 <h3>Contact Use </h3>
  <a href="https://www.facebook.com/profile.php?id=100054229745076">Fecebook</a> <br>
  <a href="https://instagram.com/its_vivek_492?igshid=YmMyMTA2M2Y=">Instagram</a>
+ </head>
+ </html>
  
- <h2>How is the website</h2>
-       <form action="form.php">
-            <input type="text"placeholder="Enter Your Opinion"> 
-
- 
-       </body>
-       </html>
- 
-
-
-           
-
-
-
-
-
-
-
-
-
-
-
