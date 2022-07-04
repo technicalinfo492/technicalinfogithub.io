@@ -1,6 +1,6 @@
 
 <html>
-<head>
+
 
 
 
@@ -67,9 +67,11 @@
            
 <!-- Social media tag-->
 <h3>Contact Use </h3>
-<br> <a href="https://www.facebook.com/profile.php?id=100054229745076">Fecebook</a></br>
+ <a href="https://www.facebook.com/profile.php?id=100054229745076">Fecebook</a><br>
  <a href="https://instagram.com/its_vivek_492?igshid=YmMyMTA2M2Y=">Instagram</a>
  
+       </body>
+       </html>
  
 
 
