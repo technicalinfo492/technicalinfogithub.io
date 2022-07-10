@@ -26,7 +26,7 @@
 <br>
 <b>II.<u>Software:-</u></b>
 <br><b>•</b>Application Software
-<br><b>•</b>System Software<br>
+<br><b>•</b>System Software<br> 
 
 <h3>3.Chracterstics of computer:-</h3>
  
