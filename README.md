@@ -61,8 +61,13 @@
  
 <p><b>A</b> programing language is a computer language that os used by progarammers (developers) to communicate with computers.It is a set of instructions written in any specific language(C,C++,Java, Python) to perform a specific task.A programming language mainly used to devalop desktop applications, website,and mobile applications.</p> 
  
-
-
+ 
+<h3> Genaration of computer:-<br> <u><small>Ansr -</small></u>  </h3> 
+<p><b>1<sup>st</sup></b> Genaration(Vacuum tube-1946)<br>
+<b>2<sup>nd</sup></b> Genaration(Transistav - 1959)<br>
+<b>3<sup>rd</sup></b> Genaration(ICs - 1965)<br>
+<b>4<sup>th</sup></b> Genaration(LSICs - 1971 to 1985)<br>
+<b>5<sup>th</sup></b> Genaration (Ownwords - 1985) </p>
   
 
            
