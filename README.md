@@ -18,7 +18,6 @@
 <h3>2.Components of computer:-</h3>
 
  <b>I.<u>Hardware:-</u></b>
-    
 <br><b>•</b>Input Devices
 <br><b>•</b>Output Devices
 <br><b>•</b>Storage Devices
